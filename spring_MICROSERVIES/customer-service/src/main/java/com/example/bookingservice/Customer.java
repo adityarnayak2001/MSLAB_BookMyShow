@@ -1,4 +1,4 @@
-package com.example.customerservice;
+package com.example.bookingservice;
 public class Customer {
     private final int id;
     private final String name;

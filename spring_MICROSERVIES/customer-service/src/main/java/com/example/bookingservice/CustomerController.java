@@ -1,5 +1,4 @@
-package com.example.customerservice;
-import org.springframework.stereotype.Controller;
+package com.example.bookingservice;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.PathVariable;
