@@ -1,0 +1,22 @@
+server:
+  port: 3000
+ 
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:3000/eureka 
+
+spring:
+  application:
+    name: discovery-service
+  cloud:
+    gateway:
+      routes:
+      - id: orderModule
+        uri: lb://order-service
+        predicates:
+        - Path=/orders/**
+      - id: customerModule
+        uri: lb://customer-service
+        predicates:
+        - Path=/customers/**
