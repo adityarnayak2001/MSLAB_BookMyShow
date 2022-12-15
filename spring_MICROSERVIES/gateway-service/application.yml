@@ -6,10 +6,10 @@ spring:
   cloud:
     gateway:
       routes:
-      - id: customerModule
+      - id: bookingModule
         uri: http://localhost:3001/
         predicates:
-        - Path=/customers/**
+        - Path=/booking/**
       - id: orderModule
         uri: http://localhost:3002/
         predicates:
