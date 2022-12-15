@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc5ca18e-0039-4dec-b573-3520b09cd915" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/MSLAB_BookMyShow.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer-service/customer-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discovery-service/discovery-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gateway-service/gateway-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/movieservice/controller/movieController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/movieservice/model/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/movieservice/repository/MovieRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/movieservice/service/MovieService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order-service/order-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-service/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-service/HELP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-service/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-service/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-service/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-service/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-service/src/main/java/com/example/customerservice/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-service/src/main/java/com/example/customerservice/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-service/src/main/java/com/example/customerservice/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-service/src/main/java/com/example/customerservice/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-service/src/main/java/com/example/customerservice/CustomerServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-service/src/main/java/com/example/customerservice/CustomerServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-service/src/test/java/com/example/customerservice/CustomerServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-service/src/test/java/com/example/customerservice/CustomerServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-service/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-service/target/classes/com/example/customerservice/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-service/target/classes/com/example/customerservice/CustomerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discovery-service/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery-service/HELP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discovery-service/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery-service/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discovery-service/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery-service/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discovery-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discovery-service/src/main/java/com/example/discoveryservice/DiscoveryServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery-service/src/main/java/com/example/discoveryservice/DiscoveryServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discovery-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discovery-service/src/test/java/com/example/discoveryservice/DiscoveryServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery-service/src/test/java/com/example/discoveryservice/DiscoveryServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discovery-service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery-service/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discovery-service/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discovery-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discovery-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discovery-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discovery-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway-service/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway-service/HELP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway-service/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway-service/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway-service/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway-service/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway-service/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway-service/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway-service/src/main/java/com/example/gatewayservice/GatewayServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway-service/src/main/java/com/example/gatewayservice/GatewayServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway-service/src/test/java/com/example/gatewayservice/GatewayServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway-service/src/test/java/com/example/gatewayservice/GatewayServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway-service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway-service/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway-service/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway-service/target/classes/com/example/gatewayservice/GatewayServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway-service/target/classes/com/example/gatewayservice/GatewayServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway-service/target/test-classes/com/example/gatewayservice/GatewayServiceApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway-service/target/test-classes/com/example/gatewayservice/GatewayServiceApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/HELP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/src/main/java/com/example/orderservice/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/src/main/java/com/example/orderservice/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/src/main/java/com/example/orderservice/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/src/main/java/com/example/orderservice/MovieController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/src/main/java/com/example/orderservice/OrderServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/src/main/java/com/example/orderservice/MovieService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/src/test/java/com/example/orderservice/OrderServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/src/test/java/com/example/orderservice/OrderServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/target/classes/com/example/orderservice/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/target/classes/com/example/orderservice/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to_execute_all.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../to_execute_all.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2IxOGCtMp4qSkNgvvOfzdzwqwEb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Github/MSLAB_BookMyShow/spring_MICROSERVIES/order-service",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MovieServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="movie-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.movieservice.MovieServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc5ca18e-0039-4dec-b573-3520b09cd915" name="Changes" comment="" />
+      <created>1671119673403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671119673403</updated>
+      <workItem from="1671119674764" duration="3711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
