@@ -1,14 +1,21 @@
 package com.example.bookingservice;
 
 import org.springframework.web.bind.annotation.*;
+import org.springframework.web.client.RestTemplate;
 
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 @RequestMapping("/booking")
 @RestController
 public class BookingController {
     private BookingService bookingService;
-    public BookingController(BookingService bookingService){
+    private final BookingRepository bookingRepository;
+
+    public BookingController(BookingService bookingService,
+                             BookingRepository bookingRepository){
         this.bookingService=bookingService;
+        this.bookingRepository = bookingRepository;
     }
     @GetMapping("/getAllBookings")
     public List<Booking> getAllBookings(){
@@ -25,5 +32,9 @@ public class BookingController {
     @DeleteMapping("/cancelBooking/{id}")
     public String deleteBooking(@PathVariable String id){
         return bookingService.deleteCustomerBooking(id);
+    }
+    @GetMapping("/getUserAndBookingOption/{id}")
+    public List<Object> getUserAndBookingOption(@PathVariable String id){
+        return bookingService.getUserAndBookingDetails(id);
     }
 }

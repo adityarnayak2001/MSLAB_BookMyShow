@@ -10,10 +10,10 @@ spring:
         uri: http://localhost:3001/
         predicates:
         - Path=/booking/**
-      - id: orderModule
+      - id: movieModule
         uri: http://localhost:3002/
         predicates:
-        - Path=/orders/**
+        - Path=/movies/**
 eureka:
   client:
     serviceUrl:
